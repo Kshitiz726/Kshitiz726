@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hello World! I'm Kshitiz, a passionate learner and tech enthusiast.<br>💻 I love learning Computer Algorithms.<br>🚀 Turning coffee into code since 2019.<br>🌐 Building web dreams with HTML, CSS, and JavaScript.<br>🛠️ Crafting responsive and user-friendly UI/UX designs.<br>🧩 Puzzle-solving addict; I break problems into smaller pieces and solve them.<br>📚 Lifelong learner; always hungry for new technologies and frameworks.<br>🎮 When not coding, you'll find me conquering virtual worlds of game.
+👋 Hello World! I'm Kshitiz, a passionate learner and tech enthusiast.<br>💻 I love learning Computer Algorithms.<br>🚀 Turning coffee into algorithms since 2019.<br>🌐 Building web dreams with HTML, CSS, and JavaScript.<br>🛠️ Crafting responsive and user-friendly UI/UX designs.<br>🧩 Puzzle-solving addict; I break problems into smaller pieces and solve them.<br>📚 Lifelong learner; always hungry for new technologies and frameworks.<br>🎮 When not coding, you'll find me conquering virtual worlds of game.
 
 
 ## 🌐 Socials:
