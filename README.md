@@ -1,7 +1,7 @@
 <h1 align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Kshitiz+Raj+Paudyal;" />
 </h1>
-
+[![](https://visitcount.itsvg.in/api?id=Kshitiz726&icon=0&color=0)](https://visitcount.itsvg.in)
 # 💫 About Me:
 👋 Hello World! I'm Kshitiz, a passionate learner and tech enthusiast.<br>💻 I love learning Computer Algorithms.<br>🚀 Turning coffee into code since 2019.<br>🌐 Building web dreams with HTML, CSS, and JavaScript.<br>🛠️ Crafting responsive and user-friendly UI/UX designs.<br>🧩 Puzzle-solving addict; I break problems into smaller pieces and solve them.<br>📚 Lifelong learner; always hungry for new technologies and frameworks.<br>🎮 When not coding, you'll find me conquering virtual worlds of game.
 
@@ -16,10 +16,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Kshitiz726&theme=gotham&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kshitiz726&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Kshitiz726&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
-
 ---
-[![](https://visitcount.itsvg.in/api?id=Kshitiz726&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
