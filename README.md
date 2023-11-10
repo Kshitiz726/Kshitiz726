@@ -1,38 +1,25 @@
-# Hello, World! 👋
+<h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Kshitiz+Raj+Paudyal;" />
+</h1>
 
-I'm [Your Name], a passionate software developer from [Your Location]. Welcome to my GitHub profile! 🚀
+# 💫 About Me:
+👋 Hello World! I'm Kshitiz, a passionate learner and tech enthusiast.<br>💻 I love learning Computer Algorithms.<br>🚀 Turning coffee into code since 2019.<br>🌐 Building web dreams with HTML, CSS, and JavaScript.<br>🛠️ Crafting responsive and user-friendly UI/UX designs.<br>🧩 Puzzle-solving addict; I break problems into smaller pieces and solve them.<br>📚 Lifelong learner; always hungry for new technologies and frameworks.<br>🎮 When not coding, you'll find me conquering virtual worlds of game.
 
-## About Me
 
-- 🌱 I’m currently learning and exploring new technologies.
-- 💼 I work as a [Your Job Title] at [Your Company].
-- 🔭 I'm passionate about [Your Interests/Hobbies].
-- 📚 I enjoy sharing knowledge and contributing to open-source projects.
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/loosey_0000) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kshitiz-raj-paudyal-29b430215) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/19138468) 
 
-## Technologies & Tools
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=plastic&logo=cmake&logoColor=white) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=plastic&logo=git&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Kshitiz726&theme=gotham&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Kshitiz726&theme=gotham&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kshitiz726&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<p align="center">
-  <img src="https://img.shields.io/badge/-Tech1-007ACC?style=flat-square&logo=Tech1&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Tech2-333333?style=flat-square&logo=Tech2&logoColor=white" />
-  <!-- Add more badges for your skills, languages, and tools -->
-</p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Kshitiz726&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
 
-## GitHub Stats
+---
+[![](https://visitcount.itsvg.in/api?id=Kshitiz726&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-## Featured Projects
-
-- [Project 1](Link to Project 1): Brief description.
-- [Project 2](Link to Project 2): Brief description.
-- [Project 3](Link to Project 3): Brief description.
-
-## Let's Connect 🤝
-
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)
-- [Twitter](https://twitter.com/your-twitter-handle)
-- [Portfolio](https://your-portfolio-website.com)
-
-Feel free to explore my repositories and don't hesitate to reach out! Happy coding! 😊
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
